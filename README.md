@@ -2,16 +2,9 @@
 
 By Arnav Garg and Parth Saxena
 
-## Linear Regression
-We model the starting median salary of a university's graduates based on acceptance and yield rates.
+A full description of the problem, methods, and results can be found [here](https://drive.google.com/file/d/1tZmKP1hO_vM91s6TzQluH_LqFyiFlrn6/view). 
 
 ### Dependencies
 `matplotlib`
 `pandas`
-
-## Logistic Regression
-We predict a student's chances of being accepted to several universities based on SAT and GPA. 
-
-### Dependencies
 `numpy`
-
